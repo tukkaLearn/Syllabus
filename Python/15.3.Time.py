@@ -1,8 +1,13 @@
 '''
 ---------------------------------------------------
-            Tukka Learn |  | Python
+        Tukka Learn | Time Module | Python
 ---------------------------------------------------
+- time.time()
+- time.sleep()
+- time.process_time()
 '''
+
+
 
 
 

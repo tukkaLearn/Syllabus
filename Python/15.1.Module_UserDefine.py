@@ -1,8 +1,38 @@
 '''
 ---------------------------------------------------
-            Tukka Learn |  | Python
+            Tukka Learn | Module | Python
 ---------------------------------------------------
+- User Define Module
+- Predefined Module
+- External Module
+
 '''
+###################################################
+'''
+-------------User Define Module--------------------
+- Full Module Import
+- Partial Module Import
+- Module Alias
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

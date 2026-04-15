@@ -180,7 +180,7 @@ not (Logical not)
 ---------------------------------------------------
 
 &  (Bitwise AND)  if both bits are 1 then result is 1
-|  (Bitwise OR)   if either bit is 1 then result is 1
+|  (Bitwise OR)   if any bit is 1 then result is 1
 ^  (Bitwise XOR)  same then result is 0
 ~  (Bitwise NOT)  
 << (Bitwise left shift)

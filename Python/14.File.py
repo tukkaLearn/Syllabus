@@ -19,11 +19,10 @@
 - readline()
 - readlines()
 - tell()
-- seek()
+- seek(offset, whence)
 - close()
 - write()
 - writelines()
-- truncate()
 - flush()
 - name
 - mode

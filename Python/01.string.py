@@ -3,9 +3,34 @@
             Tukka Learn | String | Python
 ---------------------------------------------------
 - Introduction Of String
-- Different Ways To Print Data
-- Indexing
-- Slicing
+- Different Ways To Print Data print(data,end='',sep='')
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+-------- Indexing And Slicing
+'''
+
+
+
+
+
+
+
+
+
+'''
 - String Methods
   - upper()
   - lower()
@@ -29,31 +54,6 @@
   - ord() not a method but a built-in function
   - chr() not a method but a built-in function
 '''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
